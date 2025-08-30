@@ -1,13 +1,30 @@
 "# govern-detect_doc" 
 
-Visit our sample project of government document detection using reactjs 
-we provide three type of sign in
-a Citizen
-a Governor
-a Admin
+# 🏛️ Government Document Detection System
 
-its motive is to avoid a fake certificate and signature
+A sample project built with **React.js** to demonstrate secure government document verification and detection.
 
-Deploy a site https://govern-detect-doc.vercel.app/
-sample output
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56556b1f-a3c1-4dfb-af3d-83d3153ab1ac" />
+## 🔑 Features
+
+* **Three types of sign-in roles:**
+
+  * 👤 **Citizen** – Access and verify personal documents.
+  * 🏢 **Governor** – Review and approve submissions.
+  * ⚙️ **Admin** – Manage users and oversee system operations.
+
+* **Core Motive:** Prevent **fake certificates** and **forged signatures** through a structured digital verification workflow.
+
+## 🌐 Live Demo
+
+👉 [Visit the deployed site](https://govern-detect-doc.vercel.app/)
+
+## 📸 Sample Output
+
+![Sample Output](https://github.com/user-attachments/assets/56556b1f-a3c1-4dfb-af3d-83d3153ab1ac)
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js
+* **Deployment:** Vercel
+
+---
